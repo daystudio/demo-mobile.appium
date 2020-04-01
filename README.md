@@ -1,4 +1,4 @@
-# demo.appium
+# demo-mobile.appium
 
 This is made for the purpose of demonstrating how black box automated test on the apps works, with appium framework.
 
@@ -81,8 +81,7 @@ Run As -> Maven Test
 
 * [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) - Java
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [Selenium](https://www.seleniumhq.org/) - Web Test Framework
-* [Cucumber](https://cucumber.io/) - BDD Test Framework
+* [Appium](http://appium.io/) - App Test Framework
 
 ## Contributing
 
