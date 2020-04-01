@@ -1,0 +1,2 @@
+emulator @Galaxy_Nexus
+
